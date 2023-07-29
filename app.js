@@ -7,7 +7,7 @@ function talk() {
             "preeti": "You are my Best Friend forever >>>!!!"
         "what can you do for me": "Everything :) Just say to me >>Thank Me Later",
         "Your followers":
-            "I have my family of 200000 members, i don't have follower ,have supportive Famiy ",
+            "I have my family of 200000 members, i don't have follower but I have supportive Famiy ",
         ok: "Thank You So Much ",
         bye: "Okay! Will meet soon..",
     };
