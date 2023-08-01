@@ -58,9 +58,9 @@ body {
     margin-top: 20px;
 }
 .glass h3 {
-    font-size: 0.5rem;
+    font-size: 4rem;
     margin-top: 20px;
-    font-color: grey;
+    color: grey;
 }
 .input {
     width: 100%;
